@@ -37,6 +37,8 @@ Tools:
 - Autodesk Inventor
 
 ### 🔗 Get in touch
+
+- [![Gmail Badge](https://img.shields.io/badge/-hyunjup4@uci.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyunjup4@uci.edu)](mailto:hyunjup4@uci.edu)
 - [![Gmail Badge](https://img.shields.io/badge/-nitrodev0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nitrodev0@gmail.com)](mailto:nitrodev0@gmail.com)
 - [![Gmail Badge](https://img.shields.io/badge/-admin@nitrostudio.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:admin@nitrostudio.dev)](mailto:admin@nitrostudio.dev)
 - [![Discord Badge](https://img.shields.io/badge/-Nitro＃1781-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com)
