@@ -9,7 +9,7 @@
 
 ### 🔭 I’m currently working on
 
-- Information & Computer Science (ICS) major at the University of California, Irvine.
+- Computer Science and Engineering major at the University of California, Irvine.
 - As a student, I'm studying interesting facts every day.
 - I'm working on a lot of projects at the same time and doing my best to learn as much as I can.
 
